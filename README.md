@@ -1,7 +1,7 @@
 ### Hi there 👋 Thank you for visiting my profile 😄
 
 
-- 🔭 I’m currently working on a private project with ambitious goals in mind 😜 Wish me Luck!.
+- 🔭 I’m currently working on two private projects😜 Wish me Luck!.
 - 🌱 I’m currently also learning to understand deeper topics on machine learning and AI.
 - 👯 You are welcome to collaborate on any of the recent pinned projects.
 - 💬 Please ask me about how you can contribute or just fork a project and feel free to send me a pull request ;)
